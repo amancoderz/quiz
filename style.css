@@ -12,15 +12,17 @@ h1{
     color: rgb(255, 255, 255);
     position: relative;
     top: 30px;
+    /* background-color: #3c2626; */
 }
 h3{
     color: rgb(62, 62, 62);
+    text-align: center;
 }
 span{
     color: rgb(30, 156, 85);
 }
 .main{
-    width: 25rem;
+    width: 20rem;
     height: 30rem;
     background: #ffffff;
     border-radius: 3px;
@@ -41,17 +43,17 @@ span{
     height: 200px;
 } */
 #img{
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 10rem;
+    height: 10rem;
     border-radius: 100%;
     position: relative;
-    left: 6.25rem;
+    left: 5rem;
     top: 50px;
     display: block;
 }
 .q-space{
-    width: 22.5rem;
-    height: 35px;
+    width: 17.5rem;
+    height: 30px;
     text-align: center;
     color: rgb(30, 156, 85);
     border: 1px solid silver;
@@ -64,8 +66,8 @@ span{
     
 }
 .ans-space{
-    width: 22.5rem;
-    height: 250px;
+    width: 17.5rem;
+    height: 200px;
     /* background: #b0a2a2; */
     position: relative;
     top: 65px;
@@ -74,7 +76,7 @@ span{
     
 }
 .opp{
-    width: 300px;
+    width: 225px;
     height: 30px;
     /* background-color: azure; */
     text-align: left;
@@ -87,18 +89,19 @@ span{
     font-size: 20px;
     color: rgb(9, 110, 117);
     font-family: 'Lucida Sans', 'Lucida Sans Regular';
-    font-size: 17px;
+    font-size: 15px;
     position: relative;
     cursor: pointer;
    
    
 }
+
 .op{
-    width: 20px;
-    height: 20px;
+    width: 17.5px;
+    height: 17.5px;
     position: relative;
-    right: 150px;
-    top: 15px;
+    right: 125px;
+    top: 12.5px;
     cursor: pointer;
 }
 
@@ -110,8 +113,8 @@ span{
     background-color: rgb(30, 156, 85);
     cursor: pointer;
     position: relative;
-    left: 87.5px;
-    top: 150px; 
+    left: 50px;
+    top: 190px; 
   
 }
 #btn:hover{
